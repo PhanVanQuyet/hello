@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PhanVanQuyet/hello.git/static/css/main.afd7172b.chunk.css",
+    "main.js": "/PhanVanQuyet/hello.git/static/js/main.71d26d29.chunk.js",
+    "main.js.map": "/PhanVanQuyet/hello.git/static/js/main.71d26d29.chunk.js.map",
+    "runtime-main.js": "/PhanVanQuyet/hello.git/static/js/runtime-main.a018ae2a.js",
+    "runtime-main.js.map": "/PhanVanQuyet/hello.git/static/js/runtime-main.a018ae2a.js.map",
+    "static/js/2.4243530c.chunk.js": "/PhanVanQuyet/hello.git/static/js/2.4243530c.chunk.js",
+    "static/js/2.4243530c.chunk.js.map": "/PhanVanQuyet/hello.git/static/js/2.4243530c.chunk.js.map",
+    "index.html": "/PhanVanQuyet/hello.git/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/PhanVanQuyet/hello.git/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.4243530c.chunk.js.LICENSE.txt": "/PhanVanQuyet/hello.git/static/js/2.4243530c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a018ae2a.js",
+    "static/js/2.4243530c.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.71d26d29.chunk.js"
+  ]
+}
